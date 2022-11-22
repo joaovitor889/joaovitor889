@@ -14,6 +14,6 @@
   <img  aling="center" heigth="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img  aling="center" heigth="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
           
-  ![Snake animation](https://github.com/joaovitor889/joaovitor889/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/joaovitor889/joaovitor889/blob/github-contribution-grid-snake.svg)
   
 </div>
