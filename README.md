@@ -1,5 +1,5 @@
-> ### Oi, sou o joaovitor889 👋
-> #### Sou estudante de análise e desenvolvimento de sistemas da Fatec Sorocaba, estou atualmente na busca do meu primeiro estágio.
+### Oi, sou o joaovitor889 👋
+#### Sou estudante de análise e desenvolvimento de sistemas da Fatec Sorocaba, estou atualmente na busca do meu primeiro estágio.
 ----
 <div>
   <a href="https://github.com/joaovitor889">
