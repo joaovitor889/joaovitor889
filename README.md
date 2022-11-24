@@ -18,4 +18,4 @@
 </div>
 
 
-![snake gif](https://github.com/joaovitor889/joaovitor889/blob/output/github-contribution-grid-snake.svg)
+
