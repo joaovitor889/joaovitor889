@@ -1,6 +1,6 @@
 ### Oi, sou o joaovitor889 🚀
-#### Sou estudante de análise e desenvolvimento de sistemas da Fatec Sorocaba, estou atualmente na busca do meu primeiro estágio.
-----
+> #### Sou estudante de análise e desenvolvimento de sistemas da Fatec Sorocaba, estou atualmente procurando me especializar no desenvolvimento WEB.
+
 <div>
   <a href="https://github.com/joaovitor889">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=joaovitor889&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -16,6 +16,10 @@
   <img  aling="center" heigth="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
             
 </div>
+
+---
+
+
 
 
 ![snake gif](https://github.com/joaovitor889/joaovitor889/blob/output/github-contribution-grid-snake.svg)
