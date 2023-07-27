@@ -1,4 +1,4 @@
-### Oi, sou o joaovitor889 🚀
+### Oi, eu sou o João Vitor dos Reis Oliveira🚀
 > #### Sou estudante de análise e desenvolvimento de sistemas da Fatec Sorocaba, estou atualmente procurando me especializar no desenvolvimento WEB.
 
 <div>
