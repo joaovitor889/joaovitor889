@@ -1,4 +1,4 @@
-## Oi, eu sou o João Vitor dos Reis Oliveira🚀
+# Oi, eu sou o João Vitor dos Reis Oliveira 👨‍💻 💻
 WEB DEV | UI/UX | Técnico em mecatrônica
 
 > #### Sou estudante de análise e desenvolvimento de sistemas da Fatec Sorocaba, estou atualmente procurando me especializar no desenvolvimento WEB.
